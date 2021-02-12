@@ -4,7 +4,7 @@ Hello, I'm David —a web developer with a diverse background from art to high r
 
 
 ## Fun Facts!
-🎵 I play the classical guitar
+🎵 I play the classical guitar <br />
 🎥 My favorite movie is Blade Runner
 
 ## Get In Touch

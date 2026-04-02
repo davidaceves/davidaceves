@@ -1,6 +1,6 @@
 # David Aceves 
 
-Hello, I'm David —a ServiceNow Developer with a diverse background from art to high ropes course instruction and construction. I enjoy solving complex problems in creative ways whether they be in the digital space or the real world.
+Hello, I'm David — a ServiceNow Developer with a diverse background from art to high ropes course instruction and construction. I enjoy solving complex problems in creative ways whether they be in the digital space or the real world.
 
 
 ## Fun Facts!
